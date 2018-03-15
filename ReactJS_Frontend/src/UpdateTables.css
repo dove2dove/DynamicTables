@@ -1,0 +1,28 @@
+
+table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+#fieldlab{
+width: 120px;
+font-size: 15px;
+}
+#fieldValue, #fieldValue input{
+width: 250px;
+font-size: 15px;
+}
+.modelSeperator {
+  width:100%;
+  height: 20px;
+}
+
+.PageMessage p{
+  padding-left: 50px;
+}
+#RiskTyp {
+  padding-left: 20px;
+}
+
+.submitfrmBtn{
+  margin-left: 20px;
+}
