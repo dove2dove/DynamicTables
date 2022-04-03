@@ -15,3 +15,6 @@ Table:- Aerospace
 1.) Field: Name, Type: CharField, Options: blank=false,max_length=50,null=false
 2.) Field: Foreign, Type: CharField, Options: choices=(('True'|'True');('False'|'False')),default=True
 
+Deployment
+Backend was deployed to phythoneverywhere
+Frontend was deployed to netlify
